@@ -6,7 +6,7 @@ export async  function post(req:NextRequest){
     const email = body.email;
     const password = body.password;
 
-    
+    console.log(body);
 
 
 }
