@@ -1,3 +1,3 @@
 export async function get(){
-    console.log("in the signup api ");
+    console.log("in the signup api liveRabbit ");
 }
